@@ -1,6 +1,6 @@
 Hi there I'm Kim Jeongsik(김정식)👋
 
-I can both speak english and korean
+I can speak both english and korean
 
 I'm currently interested in CV and deeplearning
 
